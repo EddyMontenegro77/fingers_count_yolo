@@ -1,0 +1,14 @@
+path: C:\Users\edmon\OneDrive\Documentos\Proyectos\AI\yolo_testing\finger_count\yolov5\dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 6  # Número de clases
+# Nombres de clases
+names: 
+  0: 0 
+  1: 1
+  2: 2
+  3: 3
+  4: 4
+  5: 5
